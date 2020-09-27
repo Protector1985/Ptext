@@ -1,3 +1,7 @@
+/client_secret.json
+/messageData.js
+/phoneData.js
+
 # Logs
 logs
 *.log
